@@ -1,6 +1,13 @@
 {
-  "USER-001": {
-    "active": true,
-    "expiry": "2026-12-31"
-  }
+  "USER-001": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Aditia Rahman" },
+  "USER-002": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Ahmad Santoso" },
+  "USER-003": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Amar Maulana" },
+  "USER-004": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Ricka Yustira" },
+  "USER-005": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Dwi Prasetyo" },
+  "USER-006": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Mohammad Putra" },
+  "USER-007": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Tirangga Yala" },
+  "USER-008": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Tiya Alfianti" },
+  "USER-009": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Rima Alfiany" },
+  "USER-010": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Tonny Bagus Prakarsa" },
+  "USER-011": { "active": true, "expiry": "2030-12-31T23:59:59Z", "owner": "Andrew Christofer Gieraldo" }
 }

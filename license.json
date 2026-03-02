@@ -1,7 +1,7 @@
 {
   "USER-001": { "name": "Aditia Rahman", "active": true, "expiry": "2030-12-31" },
   "USER-002": { "name": "Ahmad Santoso", "active": true, "expiry": "2030-06-30" },
-  "USER-003": { "name": "Amar Maulana", "active": false, "expiry": "2030-01-01" },
+  "USER-003": { "name": "Amar Maulana", "active": true, "expiry": "2030-01-01" },
   "USER-004": { "name": "Ricka Yustira", "active": true, "expiry": "2030-12-31" },
   "USER-005": { "name": "Dwi Prasetyo", "active": true, "expiry": "2030-12-31" },
   "USER-006": { "name": "Mohammad Putra", "active": true, "expiry": "2030-12-31" },
